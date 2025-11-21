@@ -1,0 +1,13 @@
+{
+  "bg_color": "#FFFFFF",
+  "max_words_index": 2,
+  "res_index": 0,
+  "mode_index": 0,
+  "profiles": {
+    "默认配置": {
+      "custom_dict": "",
+      "stop_words": "的\n了\n在\n是\n我\n有\n和\n就\n不\n人\n都\n一\n一个\n上\n也\n很\n到\n说\n要\n去\n你\n会\n着\n没有\n看\n好\n自己\n这"
+    }
+  },
+  "current_profile_name": "默认配置"
+}
